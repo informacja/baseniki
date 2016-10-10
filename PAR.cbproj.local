@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.270,D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\PARPCH1.h=C:\Users\Puler\Desktop\Embarcaderco PAR\Project2PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.226,=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\przyklad_refaktoryzacji.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.221,=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\main.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.601,D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Wczytywanie.h=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\load.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.012,=C:\Users\Puler\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.352,=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\code.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.301,D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\PAR.cbproj=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Project2.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.219,=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\code.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.601,D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Wczytywanie.cpp=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\load.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.354,=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Map.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.593,=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.519,D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Unit1.cpp=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Wczytywanie.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.356,=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\source.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.602,D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Project2.cbproj=C:\Users\Puler\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.224,=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Map.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.020,=C:\Users\Puler\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.519,D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Unit1.h=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Wczytywanie.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.229,=D:\Dev-C++\PAR - Kopia dla CODEBLOCKS\Untitled1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.058,C:\Users\Puler\Desktop\Embarcaderco PAR\Project2PCH1.h=C:\Users\Puler\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="przyklad_refaktoryzacji.cpp"/>
+    <File Path="Map.h"/>
+    <File Path="Untitled1.cpp"/>
+    <File Path="source.h"/>
+    <File Path="Map.cpp"/>
+    <File Path="code.cpp"/>
+    <File Path="PARPCH1.h"/>
+    <File Path="main.cpp"/>
+    <File Path="code.h"/>
+    <File Path="load.cpp"/>
+    <File Path="load.cpp"/>
+    <File Path="load.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
